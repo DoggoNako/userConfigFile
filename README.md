@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML & MarkDown (for Github :D)
 - 💞️ I’m looking to collaborate on Minecraft
 - 📫 How to reach me 
-<!---
-  - ![Discord Logo]() Discord : @Sashapoun_Nako#8375
+  - ![Discord Logo](/images/discord-logo.png) Discord : @Sashapoun_Nako#8375
   - 
 <!---
 SashapounNako/SashapounNako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
