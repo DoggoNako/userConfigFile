@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SashapounNako
+- 👋 Hi, I’m @DoggoNako
 - 👀 I’m interested in Games, 3D, Developping
 - 🌱 I’m currently learning HTML & MarkDown (for Github :D)
 - 💞️ I’m looking to collaborate on Minecraft
 - 📫 How to reach me 
-  - <img src="/images/discord-logo.png" alt="Discord Logo" width="30" height="30"/> @Sashapoun_Nako#8375
+  - <img src="/images/discord-logo.png" alt="Discord Logo" width="30" height="30"/> @DoggoNako#3621
 <!--
   -
   -
